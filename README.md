@@ -11,7 +11,7 @@ Required software
 =================
 Python >= 3.9
 
-Required packages: scipy, numpy, matplotlib, torch, seaborn, sklearn, os, ot
+Required packages: scipy, numpy, matplotlib, torch, seaborn, sklearn, os, ot, warnings
 
 Parameters of the algorithms
 =====================================================
